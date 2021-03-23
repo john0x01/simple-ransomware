@@ -5,6 +5,7 @@ import os
 import pathlib
 
 ### The path that the program will encrypt ###
+### In this case it's current path ###
 folder = pathlib.Path(__file__).parent.absolute()
 
 ### List files in the folder of the path ###
