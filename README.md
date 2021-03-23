@@ -10,7 +10,7 @@ Usage:
   
     (or simply just double click it)
  
-**I do not recommend you to run it on your desktop**
+**I do not recommend you to run it on your desktop or in any important folder**
 
 Don't use it to harm anyone
 
